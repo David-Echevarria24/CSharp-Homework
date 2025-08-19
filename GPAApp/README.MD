@@ -1,0 +1,1 @@
+Created a coonsole app with basic math operations to get the final gpa average of the student

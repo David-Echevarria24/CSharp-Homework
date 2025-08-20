@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSVPApp", "RSVPApp\RSVPApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailAddressChallenge", "EmailAddressChallenge\EmailAddressChallenge.csproj", "{A3D25CC7-3716-480D-B3D8-E1CAB21A022A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PettingZoo", "PettingZoo\PettingZoo.csproj", "{5AD33E15-1781-4723-9311-09BC931807DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{A3D25CC7-3716-480D-B3D8-E1CAB21A022A}.Release|x64.Build.0 = Release|Any CPU
 		{A3D25CC7-3716-480D-B3D8-E1CAB21A022A}.Release|x86.ActiveCfg = Release|Any CPU
 		{A3D25CC7-3716-480D-B3D8-E1CAB21A022A}.Release|x86.Build.0 = Release|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Release|x64.Build.0 = Release|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{5AD33E15-1781-4723-9311-09BC931807DA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
